@@ -6,3 +6,7 @@ https://www.reddit.com/r/learnmachinelearning/comments/vovutc/machine_learning_a
 https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
 https://www.reddit.com/r/learnmachinelearning/comments/y43u5t/5_best_github_repositories_to_learn_machine/
 https://github.com/trekhleb/homemade-machine-learning
+https://amankharwal.medium.com/20-machine-learning-projects-for-portfolio-81e3dbd167b1
+https://github.com/josephmisiti/awesome-machine-learning
+https://github.com/practical-tutorials/project-based-learning
+https://github.com/Avik-Jain/100-Days-Of-ML-Code
